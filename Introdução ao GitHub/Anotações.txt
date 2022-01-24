@@ -1,0 +1,19 @@
+Como eu subi este arquivo para o GitHub
+
+1. Fui nos meus repositórios
+2. Apertei "novo repositório"
+3. Dei um título e descrição
+4. Selecionei "public" e "Add a READNAME file", depois criei
+5. Fui em "code" e apertei "clone"
+6. Copiei o link de https
+7. Abri o Git Bash em uma pasta minha pré criada
+8. Escrevi "git clone + link" e apertei enter
+9. Abri a pasta criada no explorador de arquivos do computador
+10. Criei uma pasta e dentro dela criei este arquivo.txt
+11. No Git Bash, escrevi "cd + nome do repositorio"
+12. Escrevi "git status"
+13. Escrevi "git add ."
+14. Escrevi "git status"
+15. Escrevi "git commit -m "Inclusão das anotações do curso de Git/GitHub"
+16. Escrevi "git status"
+17. Escrevi "git push origin main"
